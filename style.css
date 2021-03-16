@@ -1,0 +1,65 @@
+.home {
+    position: fixed;
+    bottom: 50px;
+    right: 580px;
+    background-color: blue;
+    color: white;
+}
+
+.intro {
+    text-align: center;
+    color: red;
+}
+
+.north {
+    position: fixed;
+    bottom: 400px;
+    right: 600px;
+    background-color: green;
+    color: white;
+}
+
+.east {
+    position: fixed;
+    bottom: 350px;
+    right: 535px;
+    background-color: green;
+    color: white;
+}
+
+.west {
+    position: fixed;
+    bottom: 350px;
+    right: 680px;
+    background-color: green;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.attack {
+    position: fixed;
+    bottom: 130px;
+    right: 680px;
+    background-color: green;
+    color: white;
+}
+
+.dodge {
+    position: fixed;
+    bottom: 130px;
+    right: 610px;
+    background-color: green;
+    color: white;
+}
+
+.heal {
+    position: fixed;
+    bottom: 130px;
+    right: 553px;
+    background-color: green;
+    color: white;
+}
